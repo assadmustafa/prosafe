@@ -101,31 +101,10 @@ body {
 .helmet{
     max-height: 5vh;
 }
-.head{
-    min-height: 100vh;
-    background-image: url('../img/1.jpg');
-    position: relative;
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size:53vh;
-}
 .fix-bottom{
     text-align: bottom;
 
 }
-/*button {
-    background-color: #fefefe;
-    border-color: black;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 50px;
-    border-width: 1px;
-    letter-spacing: 2px;
-
-}*/
 .wow-button{
     padding: 16px 60px;
     border: solid 1px black;

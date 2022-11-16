@@ -62,9 +62,6 @@ button {
                  <button>GET WOW NOW</button>
               </center>
            </div>
-           <div>
-              <center><img src="assets/img/1.jpg" class="img-responsive"></center>
-           </div>
         </div>
       </div>
       </div>
